@@ -14,7 +14,6 @@
 
 <hr/>
 
-
 ## 🌟 Overview
 
 The **Nero Chain Knowledge Base** is a next-generation decentralized application (dApp) built on the **Nero Chain EVM**. It acts as an immutable wiki where community members can create, curate, and govern informative articles, tutorials, and documentation entirely on-chain. 
